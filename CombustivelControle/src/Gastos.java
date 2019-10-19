@@ -5,8 +5,6 @@ public class Gastos {
 	float kmRodado;
 	float litros;
 	float autonomia;
-	//
-	
 	public String getNome() {
 		return nome;
 	}
@@ -31,8 +29,6 @@ public class Gastos {
 	public void setAutonomia(float autonomia) {
 		this.autonomia = autonomia;
 	}
-	
-	
-	
+
 	
 }
